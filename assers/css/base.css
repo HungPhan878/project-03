@@ -1,0 +1,14 @@
+:root{
+    --primary-color:#1EBFC1;
+}
+
+.main-content{
+    width: 1170px;
+    max-width: calc(100% - 48px);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    text-decoration: none;
+}
